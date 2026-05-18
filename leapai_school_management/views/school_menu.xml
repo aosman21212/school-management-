@@ -4,7 +4,7 @@
     <menuitem id="menu_school_root"
               name="School"
               sequence="50"
-              web_icon="school_management,static/description/icon.png"/>
+              web_icon="leapai_school_management,static/description/icon.png"/>
 
     <!-- Students Menu -->
     <menuitem id="menu_school_students"
@@ -140,7 +140,7 @@
               name="Configuration"
               parent="menu_school_root"
               sequence="100"
-              groups="school_management.group_school_manager"/>
+              groups="leapai_school_management.group_school_manager"/>
 
     <menuitem id="menu_school_academic_year"
               name="Academic Years"
