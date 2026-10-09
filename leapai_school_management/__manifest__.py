@@ -1,4 +1,15 @@
 # -*- coding: utf-8 -*-
+# =============================================================================
+#  School Management System
+# -----------------------------------------------------------------------------
+#  Location  : King Abdulaziz Branch Road, Riyadh, Saudi Arabia
+#  Email     : sales@leapai.ai
+#  Phone     : +966 53 553 3627
+#  Website   : https://leapai.ai
+#  Developer : Abdulkaraim Osman — Tech Manager | Backend Engineer | DevOps Engineer
+#              at Bab International Corp For Specialized Services
+#  LinkedIn  : https://www.linkedin.com/in/abdulkaraim-o-385b7a110/
+# =============================================================================
 {
     'name': 'School Management System',
     'version': '19.0.1.0.1',
@@ -20,6 +31,8 @@ A complete school management solution including:
 - Academic year configuration
     """,
     'author': 'leapai.ai',
+    'maintainer': 'Abdulkaraim Osman',
+    'support': 'sales@leapai.ai',
     'website': 'https://leapai.ai',
     'license': 'LGPL-3',
     'images': [
